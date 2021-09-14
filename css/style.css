@@ -65,11 +65,17 @@
 }
 @media only screen and (max-width: 600px) {
     #calculator_box{
-        width: 230px;
+        width: 80%;
     }
     .button{
         width: 23.5%;
-        height: 48px;
-        margin: 2.4px 0;
+    }
+  }
+@media only screen and (max-width: 249px) {
+    #calculator_box{
+        width: 90%;
+    }
+    .button{
+        width: 20.5%;
     }
   }
