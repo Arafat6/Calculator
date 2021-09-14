@@ -63,3 +63,13 @@
     background: #839192;
     color: #fff;
 }
+@media only screen and (max-width: 350px) {
+    #calculator_box{
+        width: 230px;
+    }
+    .button{
+        width: 23.5%;
+        height: 48px;
+        margin: 2.4px 0;
+    }
+  }
