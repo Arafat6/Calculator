@@ -63,7 +63,7 @@
     background: #839192;
     color: #fff;
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 600px) {
     #calculator_box{
         width: 230px;
     }
